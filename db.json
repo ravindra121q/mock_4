@@ -3,7 +3,110 @@
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+   {
+"questions": [
+{
+"question": "What is JavaScript?",
+"options": [
+"A. A markup language",
+"B. A programming language",
+"C. A database management system",
+"D. A networking protocol"
+],
+"answer": "B. A programming language"
+},
+{
+"question": "What are the data types supported by JavaScript?",
+"options": [
+"A. String, number, boolean",
+"B. Object, array, null",
+"C. Undefined, function, symbol",
+"D. All of the above"
+],
+"answer": "D. All of the above"
+},
+{
+"question": "What is the purpose of the 'typeof' operator in JavaScript?",
+"options": [
+"A. To check if a variable is defined",
+"B. To determine the data type of a value",
+"C. To compare two values for equality",
+"D. To declare a new variable"
+],
+"answer": "B. To determine the data type of a value"
+},
+{
+"question": "What is the difference between 'null' and 'undefined' in JavaScript?",
+"options": [
+"A. 'null' represents an empty string, while 'undefined' represents a missing value",
+"B. 'null' is a data type, while 'undefined' is a keyword",
+"C. 'null' represents intentional absence of any object value, while 'undefined' represents absence of a value",
+"D. 'null' and 'undefined' are interchangeable in JavaScript"
+],
+"answer": "C. 'null' represents intentional absence of any object value, while 'undefined' represents absence of a value"
+},
+{
+"question": "What is an anonymous function in JavaScript?",
+"options": [
+"A. A function that is not used in the code",
+"B. A function without a return statement",
+"C. A function that does not have a name",
+"D. A function that is used for debugging purposes"
+],
+"answer": "C. A function that does not have a name"
+},
+{
+"question": "What is the purpose of the 'this' keyword in JavaScript?",
+"options": [
+"A. To refer to the current object",
+"B. To declare a new variable",
+"C. To create a loop in JavaScript",
+"D. To comment out a block of code"
+],
+"answer": "A. To refer to the current object"
+},
+{
+"question": "What is a closure in JavaScript?",
+"options": [
+"A. A way to store data in a file",
+"B. A syntax error in JavaScript",
+"C. A function that executes immediately",
+"D. A function that has access to its own scope and the scope of the outer function"
+],
+"answer": "D. A function that has access to its own scope and the scope of the outer function"
+},
+{
+"question": "What is the difference between '==' and '===' in JavaScript?",
+"options": [
+"A. '==' performs type coercion, while '===' does not",
+"B. '==' checks for equality of both value and type, while '===' only checks for equality of value",
+"C. '==' and '===' are interchangeable in JavaScript",
+"D. '==' is used for arithmetic operations, while '===' is used for string operations"
+],
+"answer": "A. '==' performs type coercion, while '===' does not"
+},
+{
+"question": "What are the different ways to create objects in JavaScript?",
+"options": [
+"A. Using object literals",
+"B. Using constructor functions",
+"C. Using the 'Object.create()' method",
+"D. All of the above"
+],
+"answer": "D. All of the above"
+},
+{
+"question": "What is event delegation in JavaScript?",
+"options": [
+"A. The process of assigning events to HTML elements",
+"B. A technique for handling events on dynamically created elements",
+"C. The process of bubbling events up the DOM tree",
+"D. A method for attaching event listeners to specific elements"
+],
+"answer": "B. A technique for handling events on dynamically created elements"
+}
+]
+}
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode","number":'0' }
 }
