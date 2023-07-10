@@ -108,5 +108,5 @@
 ]
 }
   ],
-  "profile": { "name": "typicode","number":"0" }
+  "profile": [{ "name": "typicode","number":"0" }]
 }
